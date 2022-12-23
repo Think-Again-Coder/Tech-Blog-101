@@ -1,8 +1,11 @@
 const router = require('express').Router();
 const homeRoutes = require('./homeRoutes');
-// const projectRoutes = require('./projectRoutes');
 
-router.use('/users', userRoutes);
-router.use('/projects', projectRoutes);
+router.get('/', (req, res) => {
+    // find all categories
+    
+  });
+  
+
 
 module.exports = router;

@@ -4,6 +4,6 @@ const homeRoutes = require('./homeRoutes');
 
 //using root for home route and also api routes. 
 router.use('/', homeRoutes);
-router.use('/api', apiRoutes);
+router.use('/api/index.js', apiRoutes);
 
 module.exports = router;
