@@ -20,7 +20,7 @@ The image here represents an example taken from the challenge folder.
 
 ### Summary: 
 
-This was a chellenging project and although the models were completed I could not figure out the routes in time. I can understand why frameworks like React were created when compared to Handlebars. This may be a simple implementation for the right project.
+This was a chellenging project and although the models were completed I could not figure out the routes in time. I did find the MVC paradigm to work well as a guide. Also, I can understand why frameworks like React were created when compared to Handlebars. This may be a simple implementation for the right project.
 
 --- 
 **Check out the deployed application:**
