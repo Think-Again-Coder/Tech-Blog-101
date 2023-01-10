@@ -5,29 +5,26 @@
 ---
 ## *Description:* 
 
-This application was created to give the user a way to write and save basic notes. This was the first attempt at using Express.js for the backend. The overall design is very simple and intended for quick note taking. 
+The tech blog project was created to develop a content management system while following a MVC(Model View Controller)architectural structure. This blog would allow users to publish blog posts and post comments to other blogs too. 
 
 ## *Process:*
 
-The tech blog application was built using some starter code with a traditional front end(HTML, CSS). The only framework used is Bootstrap via a CDN link. 
+The tech blog application was built using some starter code and express-handlebars package. A notable feature is utilized with bcrypt for password hashing. The major point of focus is the structure of the folders which follow the MVC style. This gives the developers a specific way to organize and move data. Also worth noting the use of Sequelize as the object relational mapper that makes working with MySQL databases easier. 
 
-A notable feature is the ability to save your notes for later use.
 
-The images here represents an example of the notes that were taken using the app. You will notice that you can give your notes titles and type your notes in the body below the title section. 
 
-![Tech Blog Images](/public/assets/Screenshot_20221121_040500.png)
+The image here represents an example taken from the challenge folder.   
 
-![Tech Blog Images](/public/assets/Screenshot_20221121_040240.png)
+![Tech Blog Images](/Assets/14-mvc-homework-demo-01.gif)
 
 
 ### Summary: 
 
-This is a great tool for anybody who may need a digital notepad that can save notes. 
-
+This was a chellenging project and although the models were completed I could not figure out the routes in time. I can understand why frameworks like React were created when compared to Handlebars. This may be a simple implementation for the right project.
 
 --- 
 **Check out the deployed application:**
 ##
-[Tech Blog application]() <--- Click Here!
+[Tech Blog application](https://github.com/Think-Again-Coder/Tech-Blog-101) <--- Click Here!
 ## 
 ## - John Lopez -
